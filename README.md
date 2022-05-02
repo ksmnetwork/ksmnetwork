@@ -2,7 +2,7 @@
 Check our website :link: [Click Here]
 
 For Support:
-- :satellite: Reach me at: [Little Endian]
+- :satellite: Reach me at RIOT Matrix chat a.k.a: [Little Endian]
 
 Validators name for nomination: 
 - :dart: KSMNETWORK URL for nomination at PolkadotJS: [KSMNETWORK]
